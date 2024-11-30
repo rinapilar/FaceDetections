@@ -66,3 +66,5 @@ Demos with other images can be seen here: https://youtu.be/N4GIGVnyNBo
 
 Output of demo.py:
 ![Alt text](demo_result.png?raw=true)
+Esto es una prueba del laboratorio echo en la clase de control de versiones del Ingeniero, con esto agregamos informacion 
+
